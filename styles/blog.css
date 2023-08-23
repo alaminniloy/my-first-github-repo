@@ -1,4 +1,6 @@
 div{
     background-color: tomato;
      padding: 20px; 
+     margin-top: 20px;
+     border-radius: 10px;
 }
